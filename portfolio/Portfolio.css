@@ -1,0 +1,98 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(147, 58, 58);
+    background-size: cover;
+}
+
+body {
+    background-image: url(https://i.ibb.co/yVms2fb/background-2.jpg);
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: rgb(235, 60, 12);
+    font-size: 50px;
+    font-family: cursive;
+    font-style: italic;
+    text-decoration: underline rgb(67, 49, 52);
+}
+
+h4 {
+    margin-left: 540px;
+    text-decoration: underline pink;
+}
+
+#heading2 {
+    margin-left: 840px;
+    text-decoration: underline pink;
+}
+
+#heading3 {
+    margin-left: 840px;
+    text-decoration: underline pink;
+}
+
+#myself {
+    display: flex;
+}
+
+.btn {
+    border: 2px solid rgb(34, 32, 32);
+    background-color: white;
+    color: rgb(22, 23, 23);
+    font-family: cursive;
+    text-decoration: none;
+    padding: 4px;
+}
+
+.btn:hover {
+    background-color: rgb(123, 104, 104);
+  }
+
+b {
+    background-color: wheat;
+    color: rgb(17, 16, 16);
+}
+
+#education {
+    display: flex;
+    justify-items: center;
+}
+
+#skill {
+    display: flex;
+    justify-items: center;
+}
+
+footer {
+    display: block;
+    height: 200px;
+    background-color: rgb(170, 163, 163);
+    text-align: center;
+}
+
+.contect {
+    color: white;
+    text-decoration: none;
+    margin: 50px;
+}
+
+#non {
+    color: white;
+
+}
+
+#copyright {
+    color: white;
+    margin-top: 10px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
